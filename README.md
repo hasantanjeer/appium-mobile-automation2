@@ -10,33 +10,7 @@ A minimal Appium + Java + TestNG mobile automation framework for Android applica
 * TestNG
 * Android Emulator / Real Device
 
-## Project Structure
 
-```text
-appium-mobile-automation2
-│
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   ├── drivers
-│   │   │   ├── pages
-│   │   │   └── utils
-│   │   │
-│   │   └── resources
-│   │
-│   └── test
-│       ├── java
-│       │   ├── base
-│       │   └── tests
-│       │
-│       └── resources
-│           └── apps
-│               └── ApiDemos-debug.apk
-│
-├── pom.xml
-├── testng.xml
-└── README.md
-```
 
 ## Prerequisites
 
